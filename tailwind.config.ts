@@ -57,6 +57,10 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        glow: "hsl(var(--glow))",
+        "glow-soft": "hsl(var(--glow-soft))",
+        surface: "hsl(var(--surface))",
+        "surface-elevated": "hsl(var(--surface-elevated))",
       },
       borderRadius: {
         lg: "var(--radius)",
